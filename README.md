@@ -48,8 +48,6 @@ This repository serves as a centralized archive for the project's official acade
 - Research papers
 - Publication certificates
 - Copyright documentation
-- Other project-related documents
-
 ## 🏫 Institution
 
 **Jayawantrao Sawant College of Engineering**
@@ -62,4 +60,3 @@ This repository serves as a centralized archive for the project's official acade
 
 **Academic Year:** 2025–2026
 
-> This repository contains the documentation and official records associated with the project. The implementation/source code can be maintained in a separate repository.
